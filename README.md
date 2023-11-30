@@ -4,7 +4,7 @@
 - 💞️ Espero colaborar com uma impresa focada no uso de programação avançada
 - 📫 Como me encontrar: @DariRIewe nas redes socias   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Ola,Meu+Nome+É+Dari+Riewe;Tenho+15+Anos;Eu+Sou+Do+Brasil;Eu+Curso+Desenvolvimento+De+Sistemas;Seja+Bem+Vindo+Ao+Meu+Perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Olá,Meu+Nome+É+Dari+Riewe;Tenho+15+Anos;Eu+Sou+Do+Brasil;Eu+Curso+Desenvolvimento+De+Sistemas;Seja+Bem+Vindo+Ao+Meu+Perfil!+:%29)](https://git.io/typing-svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariRiewe&show_icons=true&theme=merko)
